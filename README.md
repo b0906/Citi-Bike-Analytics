@@ -38,7 +38,6 @@ However, while the data has been regularly updated, the company has yet to imple
 note: The map is accompanied by a write-up describing any trends that were noticed during my analysis.
 
 ##
-
 ## Create my final presentation.
 ### Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
 
